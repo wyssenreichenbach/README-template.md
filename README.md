@@ -32,7 +32,16 @@ Windows:
 ```
 <install_command>
 ```
-## Using <project_name>
+
+## Testing
+
+To use <project_name>, follow these steps:
+
+```
+<usage_example>
+```
+
+## Using
 
 To use <project_name>, follow these steps:
 
