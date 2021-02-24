@@ -41,7 +41,7 @@ To use <project_name>, follow these steps:
 <usage_example>
 ```
 
-## Using
+## Usage
 
 To use <project_name>, follow these steps:
 
