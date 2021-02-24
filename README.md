@@ -1,9 +1,9 @@
 # Project name
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. In the future, this should include CI status and monitoring --->
-![Github version](/github/v/tag/:wyssenreichenbach/:repo)
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
+![Github version](https://img.shields.io/github/v/tag/wyssenreichenbach/README-template.md)
+![GitHub repo size](https://img.shields.io/github/repo-size/wyssenreichenbach/README-template.md)
+![GitHub contributors](https://img.shields.io/github/contributors/wyssenreichenbach/README-template.md)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
