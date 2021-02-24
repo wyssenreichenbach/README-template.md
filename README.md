@@ -4,6 +4,8 @@
 ![Github version](https://img.shields.io/github/v/tag/wyssenreichenbach/README-template.md)
 ![GitHub repo size](https://img.shields.io/github/repo-size/wyssenreichenbach/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/wyssenreichenbach/README-template.md)
+![Node version](https://img.shields.io/node/v/)
+
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
